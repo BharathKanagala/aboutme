@@ -3,7 +3,7 @@
 - [Webpage](https://github.com/BharathKanagala/aboutme "Webpage")
 - [Source]()
 ## About
-These repository is  to view a basic markdown weppage. It tells about how to interact with github to create repos and publish.
+These repository is  to view a basic markdown webpage. It tells about how to interact with github to create repos and publish.
 ## Recommended tools
 1. [Html](https://www.tutorialspoint.com/html_online_training/index.asp "Html"): Html is basic tool to create repo.
 1. [CSS](https://www.tutorialspoint.com/css_online_training/index.asp "CSS"): CSS.
@@ -14,4 +14,4 @@ These repository is  to view a basic markdown weppage. It tells about how to int
 - [Jquery](https://jquery.com/ "Jquery"): jquery is javascript extension.
 ## Contributors
 I am Bharath Kumar Kanagala done my undergraduation at KL University in Computer Science Engineering.
-![Hosted Image] 
+![Hosted Image] ()
