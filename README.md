@@ -15,4 +15,4 @@ These repository is  to view a basic markdown webpage. It tells about how to int
 ## Contributors
 I am Bharath Kumar Kanagala done my undergraduation at KL University in Computer Science Engineering.
 I am big fan of Chris Hemsworth
-![](https://github.com/BharathKanagala/aboutme/blob/master/chris-hemsworth.jpg "Chris")
+![Image](https://github.com/BharathKanagala/aboutme/blob/master/chris-hemsworth.jpg)
