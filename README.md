@@ -1,7 +1,7 @@
 # aboutme
 ## Repository links
 - [Webpage](https://github.com/BharathKanagala/aboutme.git "WebPage")
-- [Source](https://github.com/BharathKanagala/aboutme "Webpage")
+- [Source](https://github.com/BharathKanagala/aboutme/blob/master/README.md "Source")
 ## About
 These repository is  to view a basic markdown webpage. It tells about how to interact with github to create repos and publish.
 ## Recommended tools
