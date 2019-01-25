@@ -14,4 +14,5 @@ These repository is  to view a basic markdown webpage. It tells about how to int
 - [Jquery](https://jquery.com/ "Jquery"): jquery is javascript extension.
 ## Contributors
 I am Bharath Kumar Kanagala done my undergraduation at KL University in Computer Science Engineering.
+I am big fan of Chris Hemsworth
 ![Hosted Image](https://github.com/BharathKanagala/aboutme/blob/master/chris-hemsworth.jpg "Chris")
